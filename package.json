@@ -9,9 +9,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@hirez_io/observer-spy": "^2.0.0",
     "core-js": "^3.6.5",
+    "rxjs": "^6.6.3",
+    "rxjs-spy": "^7.5.3",
+    "rxjs-spy-devtools-plugin": "^0.0.4",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-rx": "^6.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
